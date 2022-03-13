@@ -7,7 +7,7 @@
 I am improving myself in unlimited works to be done with Python.
 I am interested in social media specialization.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=erdem-arslan&label=Profile%20Views&color=000&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=erdem-arslan&label=Profile%20Views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 ## 🛠️ My Skills
 
@@ -90,7 +90,7 @@ I am interested in social media specialization.</h4>
 	<a href="https://www.linkedin.com/in/nihatxp"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/nihatxp"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/xpnihat"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-  <a href="https://gelecegiyazanlar.turkcell.com.tr/kisi/nihatxp"><img src="https://w7.pngwing.com/pngs/33/754/png-transparent-turkcell-ileti%C5%9Fim-merkezi-company-service-mobile-payment-others-angle-company-service-thumbnail.png" alt="Twitter"/></a>
+  <a href="https://gelecegiyazanlar.turkcell.com.tr/kisi/nihatxp"><img src="https://w7.pngwing.com/pngs/33/754/png-transparent-turkcell-ileti%C5%9Fim-merkezi-company-service-mobile-payment-others-angle-company-service-thumbnail.png" height='48px' alt="Twitter"/></a>
   
 	
 </p>
