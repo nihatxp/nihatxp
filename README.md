@@ -7,7 +7,7 @@
 I am improving myself in unlimited works to be done with Python.
 I am interested in social media specialization.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=erdem-arslan&label=Profile%20Views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nihatxp&label=Profile%20Views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 ## 🛠️ My Skills
 
