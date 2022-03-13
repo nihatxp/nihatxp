@@ -56,10 +56,6 @@ I am interested in social media specialization.</h4>
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
   </a>
-    &emsp;
-  <a href="https://sparkar.facebook.com/ar-studio/">
-  	<img alt="SparkAR" src="https://img.shields.io/badge/Spark%20AR-%231ce0ba.svg?style=flat&logo=sparkAR&logoColor=white"/>
-  </a>
  </p>
 
  ### 👉 Software & Tools
@@ -90,7 +86,6 @@ I am interested in social media specialization.</h4>
 	<a href="https://www.linkedin.com/in/nihatxp"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/nihatxp"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/xpnihat"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-  <a href="https://gelecegiyazanlar.turkcell.com.tr/kisi/nihatxp"><img src="https://w7.pngwing.com/pngs/33/754/png-transparent-turkcell-ileti%C5%9Fim-merkezi-company-service-mobile-payment-others-angle-company-service-thumbnail.png" height='48px' alt="Twitter"/></a>
   
 	
 </p>
