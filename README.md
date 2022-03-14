@@ -9,9 +9,9 @@ I am interested in social media specialization.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nihatxp&label=Profile%20Views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
-## 🛠️ My Skills
+## 📍 My Skills
 
-### 👉 Programming languages
+### • Programming languages
 
 <p align="left"> 
   &emsp;
@@ -24,7 +24,7 @@ I am interested in social media specialization.</h4>
    </a>
 </p>
 
-### 👉 Frontend Development
+### • Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -40,13 +40,13 @@ I am interested in social media specialization.</h4>
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+### • Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"></a>
  </p>
   
-### 👉Graphic Designing
+### • Graphic Designing
 <p align="left">
   &emsp;
   <a href="https://www.adobe.com/tr/products/photoshop.html" target="_blank"> 
@@ -58,7 +58,7 @@ I am interested in social media specialization.</h4>
   </a>
  </p>
 
- ### 👉 Software & Tools
+ ### • Software & Tools
  
 <p>
   &emsp;
@@ -78,7 +78,7 @@ I am interested in social media specialization.</h4>
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## → Let's Connect
 <p align="center">
   <a href="https://nihatxp.github.io/website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:nihat.aliyev889@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
