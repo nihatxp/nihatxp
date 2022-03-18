@@ -7,7 +7,7 @@
 I am improving myself in unlimited works to be done with Python.
 I am interested in social media specialization.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nihatxp&label=Profile%20Views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nihatxp&label=Profile%20Views&color=0e75b6&style=plastic" alt="Nihatxp" /> </p>
 
 ## 📍 My Skills
 
@@ -38,14 +38,7 @@ I am interested in social media specialization.</h4>
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
-</p>
-
-### • Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"></a>
- </p>
-  
+</p>  
 ### • Graphic Designing
 <p align="left">
   &emsp;
@@ -57,7 +50,13 @@ I am interested in social media specialization.</h4>
    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
   </a>
  </p>
-
+ 
+### • Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"></a>
+ </p>
+ 
  ### • Software & Tools
  
 <p>
@@ -86,8 +85,6 @@ I am interested in social media specialization.</h4>
 	<a href="https://www.linkedin.com/in/nihatxp"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/nihatxp"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/xpnihat"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-  
-	
 </p>
 
 <hr/>
