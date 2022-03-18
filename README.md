@@ -79,12 +79,12 @@ I am interested in social media specialization.</h4>
 
 ## → Let's Connect
 <p align="center">
-  <a href="https://nihatxp.github.io/website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:nihat.aliyev889@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/nihatxp"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/nihatxp"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/nihatxp"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/xpnihat"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://nihatxp.github.io/website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website" target="_blank"/></a>
+	<a href="mailto:nihat.aliyev889@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" target="_blank" /></a>
+	<a href="https://github.com/nihatxp"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" target="_blank"/></a>
+	<a href="https://www.linkedin.com/in/nihatxp"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" target="_blank"/></a>
+	<a href="https://instagram.com/nihatxp"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram" target="_blank"/></a>
+	<a href="https://twitter.com/xpnihat"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter" target="_blank"/></a>
 </p>
 
 <hr/>
