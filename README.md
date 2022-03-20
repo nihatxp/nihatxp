@@ -41,7 +41,6 @@ I am interested in social media specialization.</h4>
 </p>  
 
 ### • Graphic Designing
-### • Graphic
 <p align="left">
   &emsp;
   <a href="https://www.adobe.com/tr/products/photoshop.html" target="_blank"> 
