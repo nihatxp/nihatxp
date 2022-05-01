@@ -109,6 +109,7 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 
 ## → Let's Connect
 <p align="center">
+	
   <a href="https://nihatxp.github.io/website" target="_blank"><img width="50px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/facebook.svg" alt="Website"/></a>
 	
 	<a href="mailto:nihat.aliyev889@gmail.com"><img width="50px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/gmail.svg" alt="Gmail"/></a>
