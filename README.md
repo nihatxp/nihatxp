@@ -84,7 +84,7 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 ### • Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/SQL-%2300f.svg"></a>
  </p>
  
  ### • Software & Tools
