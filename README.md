@@ -22,7 +22,7 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 
 
 
-| <a href="https://github.com/nihatxp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nihatxp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/nihatxp"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatxp&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/nihatxp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nihatxp&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/nihatxp"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatxp&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
