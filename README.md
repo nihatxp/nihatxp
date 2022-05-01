@@ -24,11 +24,8 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 
 <a href="https://github.com/nihatxp?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatxp&layout=compact&theme=buefy&hide_border=true" /></a> 
 
-#### Bakabileceginiz Repolar
+#### Top Repositories
 
-<a href="https://github.com/nihatxp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nihatxp&repo=Cihaz-Bilgileri-Device-information&theme=tokyonight" />
-</a>
 <a href="https://github.com/nihatxp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nihatxp&repo=Creating-dictionary-combinations-for-brute-force&theme=tokyonight" />
 </a>
