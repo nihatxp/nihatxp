@@ -109,11 +109,16 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 
 ## → Let's Connect
 <p align="center">
-  <a href="https://nihatxp.github.io/website" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:nihat.aliyev889@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/nihatxp" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/nihatxp" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://nihatxp.github.io/website" target="_blank"><img width="50px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/facebook.svg" alt="Website"/></a>
+	
+	<a href="mailto:nihat.aliyev889@gmail.com"><img width="50px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/gmail.svg" alt="Gmail"/></a>
+	
+	<a href="https://github.com/nihatxp" target="_blank"><img width="50px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/gihub.svg" alt="GitHub"/></a>
+	
+	<a href="https://www.linkedin.com/in/nihatxp" target="_blank"><img width="50px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/linkedin.svg" alt="LinkedIn"/></a>
+	
 	<a href="https://instagram.com/nihatxp" target="_blank"><img width="50px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/instagram-512.svg" alt="Instagram"/></a>
+	
 	<a href="https://twitter.com/xpnihat" target="_blank"><img width="50px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/twitter.svg" alt="Twitter" /></a>
 </p>
 
