@@ -22,7 +22,12 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 <br/>
 <code><img height="20" src="https://komarev.com/ghpvc/?username=nihatxp&color=ff69b4" alt="Nihatxp" /> </code>
 
-<a href="https://github.com/nihatxp?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatxp&layout=compact&theme=buefy&hide_border=true" /></a> 
+
+
+| <a href="https://github.com/nihatxp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nihatxp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/nihatxp"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatxp&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 
 #### Top Repositories
 
@@ -115,9 +120,5 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 </p>
 
 <hr/>
-
-
-| <a href="https://github.com/nihatxp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nihatxp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/nihatxp"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatxp&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 
