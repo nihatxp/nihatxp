@@ -55,7 +55,7 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/> </a>
  <a href="https://nodejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJS" width="40" height="40"/> </a>
  <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/microsoft-sql-server.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/microsoft-sql-server.svg" alt="MS SQL Server" width="40" height="40"/> </a>
    </p>
 <br />
 
