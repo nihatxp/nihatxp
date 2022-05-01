@@ -119,9 +119,9 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 
 
 <br />
-<a href="https://twitter.com/anuraghazru">
+<a href="https://twitter.com/xpnihat">
   <img align="right" alt="Nihat Aliyev | Twitter" width="21px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Nihat Aliyev | Instagram" width="20px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/instagram-512" />
+<a href="https://instagram.com/nihatxp">
+  <img align="right" alt="Nihat Aliyev | Instagram" width="20px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/instagram-512.svg" />
 </a>
