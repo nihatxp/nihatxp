@@ -1,13 +1,39 @@
-<h1 align="center">Hi, I'm Nihat Aliyev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Programing+Student;Python+Programming;Front+End+Developer;Always%20learning%20new%20things&center=true&width=500&height=50">
-</p>
-<hr/>
-<h4 align="center">I am a Python and front end software developer in Turkey/Azerbaijan. I am constantly chasing innovations and learning.
-I am improving myself in unlimited works to be done with Python.
-I am interested in social media specialization.</h4>
-<br>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
+I am a Python and front end software developer in Turkey/Azerbaijan. I am constantly chasing innovations and learning. I am improving myself in unlimited works to be done with Python. I am interested in social media specialization.
+
+**About me**
+
+- 💼 FrontEnd Engineer at [Razorpay](http://github.com/nihatxp/)
+
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](https://github.com/nihatxp/nihatxp/issues)
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nihatxp&color=ff69b4" alt="Nihatxp" /> </p>
+
+| <a href="https://github.com/nihatxp?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatxp&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Bakabileceginiz Repolar
+
+<a href="https://github.com/nihatxp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nihatxp&repo=Cihaz-Bilgileri-Device-information&theme=buefy" />
+</a>
+<a href="https://github.com/nihatxp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nihatxp&repo=Creating-dictionary-combinations-for-brute-force&theme=buefy" />
+</a>
+<br />
+
 
 ## 📍 My Skills
 
@@ -89,3 +115,14 @@ I am interested in social media specialization.</h4>
 </p>
 
 <hr/>
+
+
+
+
+<br />
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Nihat Aliyev | Twitter" width="21px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Nihat Aliyev | Instagram" width="20px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/instagram-512" />
+</a>
