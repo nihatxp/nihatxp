@@ -110,7 +110,7 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 	<a href="mailto:nihat.aliyev889@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/nihatxp" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/nihatxp" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/nihatxp" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://instagram.com/nihatxp" target="_blank"><img width="50px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/instagram-512.svg" alt="Instagram"/></a>
 	<a href="https://twitter.com/xpnihat" target="_blank"><img width="50px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/twitter.svg" alt="Twitter" /></a>
 </p>
 
@@ -118,11 +118,3 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 
 
 
-
-<br />
-<a href="https://twitter.com/xpnihat">
-  <img align="right" alt="Nihat Aliyev | Twitter" width="21px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/twitter.svg" />
-</a>
-<a href="https://instagram.com/nihatxp">
-  <img align="right" alt="Nihat Aliyev | Instagram" width="20px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/instagram-512.svg" />
-</a>
