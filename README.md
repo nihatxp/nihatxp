@@ -6,7 +6,7 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://github.com/nihatxp/)
+- 💼 FrontEnd Engineer at [Nihat Aliyev](http://github.com/nihatxp/)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
