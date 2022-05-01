@@ -111,7 +111,7 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 	<a href="https://github.com/nihatxp" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/nihatxp" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/nihatxp" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/xpnihat" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter" /></a>
+	<a href="https://twitter.com/xpnihat" target="_blank"><img src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/twitter.svg" alt="Twitter" /></a>
 </p>
 
 <hr/>
