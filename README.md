@@ -27,10 +27,10 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 #### Bakabileceginiz Repolar
 
 <a href="https://github.com/nihatxp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nihatxp&repo=Cihaz-Bilgileri-Device-information&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nihatxp&repo=Cihaz-Bilgileri-Device-information&theme=tokyonight" />
 </a>
 <a href="https://github.com/nihatxp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nihatxp&repo=Creating-dictionary-combinations-for-brute-force&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nihatxp&repo=Creating-dictionary-combinations-for-brute-force&theme=tokyonight" />
 </a>
 <p align="center">
   <a href="https://github.com/nihatxp/Number-Estimation-Game">
