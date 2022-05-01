@@ -32,6 +32,10 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 <a href="https://github.com/nihatxp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nihatxp&repo=Creating-dictionary-combinations-for-brute-force&theme=buefy" />
 </a>
+<p align="center">
+  <a href="https://github.com/nihatxp/Cihaz-Bilgileri-Device-information">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=nihatxp&Cihaz-Bilgileri-Device-information&theme=tokyonight" />
+</a>
 <br />
 
 
