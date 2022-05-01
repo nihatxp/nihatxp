@@ -52,12 +52,10 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> </a>
 <a href="https://www.github.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" width="40" height="40"/> </a>
 <a href="https://www.canva.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/> </a>
  <a href="https://nodejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJS" width="40" height="40"/> </a>
  <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> </a>
- <a href="https://expressjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40"/> </a>
- <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+ <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/microsoft-sql-server.svg" alt="PostgreSQL" width="40" height="40"/> </a>
    </p>
 <br />
 
