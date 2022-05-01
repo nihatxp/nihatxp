@@ -8,7 +8,7 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 
 - 💼 FrontEnd Engineer at [Nihat Aliyev](http://github.com/nihatxp/)
 
-- ❤️ I love writing Python, and building fun experiments on type-level
+- 🐍 I love writing Python, and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/nihatxp/nihatxp/issues)
 
