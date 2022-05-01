@@ -60,7 +60,7 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 <br />
 
 <br/>
-
+<hr/>
 <h3 align="center">Let's Connect</h3>
 <p align="center">
 	
