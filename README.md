@@ -61,7 +61,7 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 
 <br/>
 
-## → Let's Connect
+<h3 align="center">Let's Connect</h3>
 <p align="center">
 	
   <a href="https://facebook.com/nihatxp" target="_blank">
