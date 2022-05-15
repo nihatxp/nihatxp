@@ -79,7 +79,7 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
   <a href="https://instagram.com/nihatxp" target="_blank">
 	  <img width="50px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/instagram-512.svg" alt="Instagram"/></a>
 	
-  <a href="https://twitter.com/xpnihat" target="_blank">
+  <a href="https://twitter.com/nihatlyv" target="_blank">
 	  <img width="50px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/twitter.svg" alt="Twitter" /></a>
 	
 </p>
