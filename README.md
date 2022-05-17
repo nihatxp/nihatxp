@@ -65,7 +65,6 @@ while True():
 <br />
 
 <br/>
-<hr/>
 <h3 align="center">Let's Connect</h3>
 <p align="center">
 	
@@ -88,7 +87,7 @@ while True():
 	  <img width="50px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/twitter.svg" alt="Twitter" /></a>
 </p>
 
-<hr/>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
