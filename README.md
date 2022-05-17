@@ -18,12 +18,11 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 <br/>
-<code><img height="20" src="https://komarev.com/ghpvc/?username=nihatxp&color=ff69b4" alt="Nihatxp" /> </code>
+<code><img height="20" src="[https://komarev.com/ghpvc/?username=nihatxp&color=ff69b4](https://komarev.com/ghpvc/?username=nihatxp&label=Profile%20views&color=blueviolet&style=flat-square)" alt="Nihatxp" /> </code>
 
 
 
-| <a href="https://github.com/nihatxp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nihatxp&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/nihatxp"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatxp&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/nihatxp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nihatxp&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Nihat's github stats" /></a> | <a href="https://github.com/nihatxp"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatxp&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 
 
 
