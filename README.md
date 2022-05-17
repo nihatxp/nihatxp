@@ -33,7 +33,7 @@ I am a Python and Front end software developer. I am constantly chasing innovati
 </a>
 <br />
 <br />
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h3 align="center"> Languages and Tools</h3>
 </p>
 <br />
@@ -59,7 +59,6 @@ I am a Python and Front end software developer. I am constantly chasing innovati
 
 <br/>
 <hr/>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h3 align="center">Let's Connect</h3>
 <p align="center">
 	
