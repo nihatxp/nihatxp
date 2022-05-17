@@ -42,8 +42,8 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 <br />
 </p>
 <br />
-<p align="center">
-<code><a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="C" width="40" height="40"/> </a></code>
+<p align="center"><code>
+<a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="C" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -56,7 +56,7 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/> </a>
  <a href="https://nodejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJS" width="40" height="40"/> </a>
  <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/microsoft-sql-server.svg" alt="MS SQL Server" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/microsoft-sql-server.svg" alt="MS SQL Server" width="40" height="40"/> </a></code>
    </p>
 <br />
 
