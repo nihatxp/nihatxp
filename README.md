@@ -34,6 +34,8 @@ I am a Python and Front end software developer. I am constantly chasing innovati
 	
 </a>
 <br />
+#### Activity Graph
+
 <img src="https://activity-graph.herokuapp.com/graph?username=nihatxp&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <br />
 
