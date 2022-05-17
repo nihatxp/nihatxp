@@ -5,7 +5,7 @@
 I am a Python and Front end software developer. I am constantly chasing innovations and learning. I am improving myself in unlimited works to be done with Python. I am interested in social media specialization.
 
 <p align="center">
-	<a href="https://readme-typing-svg.herokuapp.com?duration=4080&color=1E11F7&background=FFFFFF00&lines=I+am+a+FrontEnd+and+Python+developer.;+I+am+constantly+chasing;Innovations+and+learning;I+am+improving+myself+in;Unlimited+works+to+be+done;With+Python;I+am+interested+in;Social+media+specialization."</a>
+	<a href="[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4080&color=1E11F7&background=FFFFFF00&lines=I+am+a+FrontEnd+and+Python+developer.;+I+am+constantly+chasing;Innovations+and+learning;I+am+improving+myself+in;Unlimited+works+to+be+done;With+Python;I+am+interested+in;Social+media+specialization.)](https://git.io/typing-svg)"</a>
 </p>
 
 **About me**
