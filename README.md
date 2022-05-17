@@ -32,12 +32,13 @@ while True():
 
 #### Top Repositories
 
-<a href="https://github.com/nihatxp">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatxp&layout=compact&theme=react&hide_border=true" /></a> 
-<a href="https://github.com/nihatxp">
+
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nihatxp&repo=Cihaz-Bilgileri-Device-information&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" /><a>
   <a href="https://github.com/nihatxp/Number-Estimation-Game">
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nihatxp&repo=Python-Screen-Recorder&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" /></a>
+<a href="https://github.com/nihatxp">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatxp&layout=compact&theme=react&hide_border=true" /></a> 
+<a href="https://github.com/nihatxp">
 	
 <h3 align="center"> Languages and Tools</h3>
 <br />
@@ -85,4 +86,6 @@ while True():
 </p>
 
 <hr/>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
