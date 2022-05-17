@@ -18,7 +18,7 @@ I am a Python and front end software developer in Turkey/Azerbaijan. I am consta
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 <br/>
-<code><img height="20" src="[https://komarev.com/ghpvc/?username=nihatxp&color=ff69b4](https://komarev.com/ghpvc/?username=nihatxp&label=Profile%20views&color=blueviolet&style=flat-square" alt="Nihatxp" /> </code>
+<code><img height="20" src="https://komarev.com/ghpvc/?\username=nihatxp&label=Profile%20views&color=blueviolet&style=flat-square" alt="Nihatxp" /> </code>
 
 
 
