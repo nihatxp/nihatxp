@@ -5,7 +5,6 @@
 I am a Python and Front end software developer. I am constantly chasing innovations and learning. I am improving myself in unlimited works to be done with Python. I am interested in social media specialization.
 
 
-
 **About me**
 
 - 💼 FrontEnd Engineer at [Nihat Aliyev](http://github.com/nihatxp/)
@@ -14,17 +13,22 @@ I am a Python and Front end software developer. I am constantly chasing innovati
 
 - 💬 Ask me about anything [here](https://github.com/nihatxp/nihatxp/issues)
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4080&color=1E11F7&background=FFFFFF00&lines=I+am+a+FrontEnd+and+Python+developer.;+I+am+constantly+chasing;Innovations+and+learning;I+am+improving+myself+in;Unlimited+works+to+be+done;With+Python;I+am+interested+in;Social+media+specialization.)](https://git.io/typing-svg)
 
-<code><img height="20" src="https://komarev.com/ghpvc/?username=nihatxp&label=Profile%20views&color=blueviolet&style=flat-square" alt="Nihatxp" /> </code>
+```python
+while True():
+	eat()
+	sleep()
+	code()
+```
 
+<code><img height="20" src="https://komarev.com/ghpvc/?username=nihatxp&label=Profile%20views&color=blueviolet&style=flat-square" alt="Nihatxp" /></code>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=nihatxp&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <a href="https://github.com/nihatxp/github-readme-stats" style="display:block;">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihatxp&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Nihat's github stats" />
 </a>
-
-
 
 #### Top Repositories
 
@@ -78,7 +82,6 @@ I am a Python and Front end software developer. I am constantly chasing innovati
 	
   <a href="https://twitter.com/nihatlyv" target="_blank">
 	  <img width="50px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/twitter.svg" alt="Twitter" /></a>
-	
 </p>
 
 <hr/>
