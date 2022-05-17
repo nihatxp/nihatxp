@@ -58,8 +58,10 @@ I am a Python and Front end software developer. I am constantly chasing innovati
 <br />
 
 <br/>
-[![Nihat's github activity graph](https://activity-graph.herokuapp.com/graph?username=nihatxp&theme=dracula)](https://nihatxp.github.io/website)
 <hr/>
+<p>
+	[![Nihat's github activity graph](https://activity-graph.herokuapp.com/graph?username=nihatxp&theme=dracula)](https://nihatxp.github.io/website)
+</p>
 <h3 align="center">Let's Connect</h3>
 <p align="center">
 	
