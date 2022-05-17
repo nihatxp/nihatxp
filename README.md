@@ -16,31 +16,34 @@ I am a Python and Front end software developer. I am constantly chasing innovati
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4080&color=1E11F7&background=FFFFFF00&lines=I+am+a+FrontEnd+and+Python+developer.;+I+am+constantly+chasing;Innovations+and+learning;I+am+improving+myself+in;Unlimited+works+to+be+done;With+Python;I+am+interested+in;Social+media+specialization.)](https://git.io/typing-svg)
 
+<code><img height="20" src="https://komarev.com/ghpvc/?username=nihatxp&label=Profile%20views&color=blueviolet&style=flat-square" alt="Nihatxp" /></code>
+
 ```python
 while True():
 	eat()
 	sleep()
 	code()
 ```
-
-<code><img height="20" src="https://komarev.com/ghpvc/?username=nihatxp&label=Profile%20views&color=blueviolet&style=flat-square" alt="Nihatxp" /></code>
-
+#### Nihat Aliyev's Contribition Graph
 <img src="https://activity-graph.herokuapp.com/graph?username=nihatxp&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-<a href="https://github.com/nihatxp/github-readme-stats" style="display:block;">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihatxp&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Nihat's github stats" />
+
+#### Nihat Aliyev's Github Stats
+
+<a href="https://github.com/nihatxp/github-readme-stats">
+	<img src="https://github-readme-stats.vercel.app/api?username=nihatxp&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Nihat's github stats" />
 </a>
 
 #### Top Repositories
-
-
-  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nihatxp&repo=Cihaz-Bilgileri-Device-information&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" /><a>
+  <a><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nihatxp&repo=Cihaz-Bilgileri-Device-information&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" /></a>
   <a href="https://github.com/nihatxp/Number-Estimation-Game">
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nihatxp&repo=Python-Screen-Recorder&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" /></a>
+  
+#### Most Used Languages
 <a href="https://github.com/nihatxp">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatxp&layout=compact&theme=react&hide_border=true" /></a> 
 <a href="https://github.com/nihatxp">
 	
-<h3 align="center"> Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 <br />
 <br />
 <p align="center"><code>
