@@ -1,9 +1,7 @@
 <p align="center"><a href="https://nihatxp.github.io/website"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
-
 <br />
 
 I am a Python and Front end software developer. I am constantly chasing innovations and learning. I am improving myself in unlimited works to be done with Python. I am interested in social media specialization.
-
 
 **About me**
 
@@ -17,7 +15,7 @@ I am a Python and Front end software developer. I am constantly chasing innovati
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4080&color=1E11F7&background=FFFFFF00&lines=I+am+a+FrontEnd+and+Python+developer.;+I+am+constantly+chasing;Innovations+and+learning;I+am+improving+myself+in;Unlimited+works+to+be+done;With+Python;I+am+interested+in;Social+media+specialization.)](https://git.io/typing-svg)
 
 <code><img height="20" src="https://komarev.com/ghpvc/?username=nihatxp&label=Profile%20views&color=blueviolet&style=flat-square" alt="Nihatxp" /></code>
-
+<!-- Code -->
 ```python
 while True():
 	eat()
@@ -43,7 +41,8 @@ while True():
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihatxp&layout=compact&theme=react&hide_border=true" /></a> 
 <a href="https://github.com/nihatxp">
 	
-<h3 align="center">Languages and Tools</h3>
+<!--Fav Langs-->	
+<h3 align="center">Favorite Languages and Tools</h3>
 <br />
 <br />
 <p align="center"><code>
@@ -63,7 +62,7 @@ while True():
  <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/microsoft-sql-server.svg" alt="MS SQL Server" width="40" height="40"/> </a></code>
    </p>
 <br />
-
+<!-- Let's Connect-->
 <br/>
 <h3 align="center">Let's Connect</h3>
 <p align="center">
@@ -86,8 +85,8 @@ while True():
   <a href="https://twitter.com/nihatlyv" target="_blank">
 	  <img width="50px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/twitter.svg" alt="Twitter" /></a>
 </p>
-
-
+	
+<!-- Banner -->	
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
