@@ -11,10 +11,6 @@ I am a Python and Front end software developer. I am constantly chasing innovati
 
 - 💬 Ask me about anything [here](https://github.com/nihatxp/nihatxp/issues)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4080&color=1E11F7&background=FFFFFF00&lines=I+am+a+FrontEnd+and+Python+developer.;+I+am+constantly+chasing;Innovations+and+learning;I+am+improving+myself+in;Unlimited+works+to+be+done;With+Python;I+am+interested+in;Social+media+specialization.)](https://git.io/typing-svg)
-
-<code><img height="20" src="https://komarev.com/ghpvc/?username=nihatxp&label=Profile%20views&color=blueviolet&style=flat-square" alt="Nihatxp" /></code>
 <!-- Code -->
 ```python
 while True():
@@ -22,6 +18,10 @@ while True():
 	sleep()
 	code()
 ```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4080&color=1E11F7&background=FFFFFF00&lines=I+am+a+FrontEnd+and+Python+developer.;+I+am+constantly+chasing;Innovations+and+learning;I+am+improving+myself+in;Unlimited+works+to+be+done;With+Python;I+am+interested+in;Social+media+specialization.)](https://git.io/typing-svg)
+
+<code><img height="20" src="https://komarev.com/ghpvc/?username=nihatxp&label=Profile%20views&color=blueviolet&style=flat-square" alt="Nihatxp" /></code>
+
 #### Nihat Aliyev's Contribition Graph
 <img src="https://activity-graph.herokuapp.com/graph?username=nihatxp&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
