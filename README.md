@@ -28,7 +28,7 @@ while True():
 #### Nihat Aliyev's Github Stats
 
 <a href="https://github.com/nihatxp/github-readme-stats">
-	<img src="https://github-readme-stats.vercel.app/api?username=nihatxp&show_icons=true&theme=radical" alt="Nihat's github stats" />
+	<img src="https://github-readme-stats.vercel.app/api?username=nihatxp&show_icons=true&theme=react" alt="Nihat's github stats" />
 </a>
 
 #### Top Repositories
