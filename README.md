@@ -5,7 +5,7 @@ I am a Python and Front end software developer. I am constantly chasing innovati
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Nihat Aliyev](http://github.com/nihatxp/)
+
 
 - 🐍 I love writing Python, and building fun experiments on type-level
 
